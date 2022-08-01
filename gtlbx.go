@@ -1,4 +1,4 @@
-package gotoolsrx
+package gtlbx
 
 import (
 	"encoding/json"
