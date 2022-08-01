@@ -1,3 +1,3 @@
-module github.com/sephross/gotoolsrx
+module github.com/sephross/gtlbx
 
 go 1.18
